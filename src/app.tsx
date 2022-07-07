@@ -5,7 +5,7 @@ export const App = () => {
 	return (
 		<>
 			<h1>
-				Hello World edited</h1>
+				Hello World edited- {name}</h1>
 			<ClickCounter />
 		</>
 	);
