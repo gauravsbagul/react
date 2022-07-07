@@ -11,8 +11,6 @@
     "plugin:@import/typescript",
     "plugin:jsx-a11y/recommended",
     "prettier",
-    "prettier/@typescript-eslint",
-    "prettier/react",
     "prettier:prettier/recommended"
   ],
   "parserOptions": {
